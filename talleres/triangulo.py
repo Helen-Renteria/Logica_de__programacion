@@ -7,7 +7,7 @@ while True:
 
     continuar = input("¿Desea continuar s/n?")
     if continuar.lower() != "s":
-        break 
+        break  
 
 
 

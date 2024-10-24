@@ -3,7 +3,7 @@ while True:
 
     rango_v= range(0, 101)
 
-
+ 
     print("-------BIENVENIDO-------")
     puntaje = int(input("Ingrese su calificacion para saber si aprobo: "))
 

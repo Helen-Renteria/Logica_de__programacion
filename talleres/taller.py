@@ -9,7 +9,7 @@ numero_flotante = 3.14
 # Cadena de texto (string)
 cadena_texto = "Hola, mundo"
 
-# Booleano (bool)
+# Booleano (bool) 
 es_verdadero = True
 es_falso = False
 

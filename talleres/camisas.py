@@ -11,7 +11,7 @@ while True:  # la condicion siempre sera verdadera por lo que siempre se va a re
 
     PRECIO_C= 35000
     descuento= 0
-    total= 0 
+    total= 0  
     print("  ") 
     print("-----------------------------------------")
     Numero_C = int(input("BIENVENID@ CUANTAS CAMISAS DESEA COMPRAR: "))

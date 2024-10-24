@@ -4,7 +4,7 @@ que calcule la suma de los primeros 50 números enteros."""
 
 suma= 0
 for i in range(1, 50):
-    suma = suma + i 
+    suma = suma + i  
         
     print(f"la suma es {suma}")
 

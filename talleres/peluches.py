@@ -10,7 +10,7 @@ Oso pardo grande= 200000
 oso panda pequeño= 150000
 oso panda grande= 300000
 Stitch pequeño= 200000
-Stitch grande= 400000
+Stitch grande= 400000 
 Dependiendo de lo que el usuario decida se le muestra la factura. Y un mensaje que diga"""
 
 

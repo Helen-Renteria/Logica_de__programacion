@@ -5,4 +5,4 @@ print (resultado)
 
 def ejenplo_return():
     print("se ejecuta")
-    return
+    return 

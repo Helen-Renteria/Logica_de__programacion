@@ -34,7 +34,7 @@ while True:
     palabra1 = input("ingrese la primera palabra: ")
     palabra2 = input("ingrese la segunda palabra: ")
 
-    ejer(palabra1, palabra2)
+    ejer(palabra1, palabra2) 
 
     cont= input("Desea continuar s/n")
     if cont.lower() != "s":
